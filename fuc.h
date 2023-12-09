@@ -738,4 +738,4 @@
                                                                                         //>:(
 #include "iostream"
 #include "raylib.h"
-using namespace std;bool windowon = true;string title_og = "Phứt Ăn Cả Đống Cú";string title_str;const char *title;int lloop = 0;int tix;int cham = 0;int chamtime = 0;string text1_str = "Loading";const char *text1;const char *text2 = "Doi Toi Nam 3023 di nhoc";int timepopup =0;bool popup = false;int opacity = 0;
+using namespace std;bool windowon = true;string title_og = "Mấy Có Bây lớn đã bị dụ  ";string title_str;const char *title;int lloop = 0;int tix;int cham = 0;int chamtime = 0;string text1_str = "Loading";const char *text1;const char *text2 = "Doi Toi Nam 3023 di nhoc";int timepopup =0;bool popup = false;int opacity = 0;
